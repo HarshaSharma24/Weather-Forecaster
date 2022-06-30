@@ -1,7 +1,7 @@
 # Weather-Forecast-App ⛅
 ## Introduction:
 A weather forecast app is web-based application to get weather updates and any other climatic changes.
-In this project, I've made a weather forecast application using **Streamlit**  and **PYOWM** libraries in Python and then deploy the project on Heroku platform which is absolute free hosting platform.
+In this project, I've made a weather forecast application using **Streamlit**  and **PYOWM** libraries in Python. 
 
 >**Concepts used in this project:**
 * Application Development
